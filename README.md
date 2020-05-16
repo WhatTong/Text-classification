@@ -1,9 +1,9 @@
 ## Text-classification 电影评论情感分类
-使用LSTM和LSTM+Attention来进行文本二分类  
+基于pytorch，使用LSTM和LSTM+Attention来进行文本二分类  
 
 ## 环境
 * python3
-* python 1.4.0
+* pytorch 1.4.0
 
 ## 数据集
   训练集：包含2W条左右中文电影评论，其中正负向评论各1W条左右；
