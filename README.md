@@ -1,9 +1,9 @@
-# Text-classification 电影评论情感分类
-使用LSTM和LSTM+Attention来进行文本二分类
+## Text-classification 电影评论情感分类
+使用LSTM和LSTM+Attention来进行文本二分类  
 环境
 ---
-*python3
-*python 1.4.0
+* python3
+* python 1.4.0
 
 数据集
 ---
