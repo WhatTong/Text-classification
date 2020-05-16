@@ -16,5 +16,8 @@
 
 结果
 ---
->LSTM  
->LSTM+Attention  
+模型 ｜ Acc
+---｜---
+LSTM｜0.847
+LSTM+Attention｜0.856
+
